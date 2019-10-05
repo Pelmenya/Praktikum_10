@@ -1,4 +1,5 @@
-# Практическая работа №10. Ссылка на проект [https://pelmenya.github.io/Praktikum_10/]
+# Практическая работа №10. 
+[https://pelmenya.github.io/Praktikum_10/]
 ##  Тема: "Git, командная строка и регулярные выражения"
 
 
