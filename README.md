@@ -1,5 +1,5 @@
 # Практическая работа №10. 
-[https://pelmenya.github.io/Praktikum_10/]
+https://pelmenya.github.io/Praktikum_10/
 ##  Тема: "Git, командная строка и регулярные выражения"
 ### Решены задачи:
 * Создан репозитарий на GitHub рабочего приложения
